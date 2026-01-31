@@ -1,4 +1,4 @@
-# <style>
+<style>
 body {
     background-image: url('https://i.imgur.com/QWZrxAK.jpeg') !important;
     background-repeat: no-repeat !important;
